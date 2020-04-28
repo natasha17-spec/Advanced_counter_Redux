@@ -1,0 +1,29 @@
+.counters2 {
+    width: 350px;
+    height: 200px;
+    border: #0bb7ff 6px solid;
+    border-style: groove;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 170px 0px 0px 0px;
+}
+
+.count2 {
+    display: flex;
+    margin: 20px;
+}
+
+.count2 input {
+    text-align: center;
+    font-size: 18px;
+    background-color: rgba(0,0,0,0);
+    font-weight: bolder;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
