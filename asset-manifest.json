@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Advanced_counter_Redux/static/css/main.f2cb2d46.chunk.css",
+    "main.js": "/Advanced_counter_Redux/static/js/main.714a8a80.chunk.js",
+    "main.js.map": "/Advanced_counter_Redux/static/js/main.714a8a80.chunk.js.map",
+    "runtime~main.js": "/Advanced_counter_Redux/static/js/runtime~main.cf3c903d.js",
+    "runtime~main.js.map": "/Advanced_counter_Redux/static/js/runtime~main.cf3c903d.js.map",
+    "static/js/2.c4fe755b.chunk.js": "/Advanced_counter_Redux/static/js/2.c4fe755b.chunk.js",
+    "static/js/2.c4fe755b.chunk.js.map": "/Advanced_counter_Redux/static/js/2.c4fe755b.chunk.js.map",
+    "index.html": "/Advanced_counter_Redux/index.html",
+    "precache-manifest.18b15dd4bb35d11c921a2e8fe57e84ff.js": "/Advanced_counter_Redux/precache-manifest.18b15dd4bb35d11c921a2e8fe57e84ff.js",
+    "service-worker.js": "/Advanced_counter_Redux/service-worker.js",
+    "static/css/main.f2cb2d46.chunk.css.map": "/Advanced_counter_Redux/static/css/main.f2cb2d46.chunk.css.map",
+    "static/media/index.css": "/Advanced_counter_Redux/static/media/1.2eb95c77.jpg"
+  }
+}
